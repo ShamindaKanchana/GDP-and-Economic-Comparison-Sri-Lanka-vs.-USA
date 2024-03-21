@@ -1,6 +1,6 @@
 # GDP-and-Economic-Comparison-Sri-Lanka-vs.-USA
 
-## Data Preparation
+# Data Preparation
 Dataset imported from kaggle 
 To do analysis we require both data related to Sri Lanka and USA. But its difficult to find all data from same data set. So data imported from two datasets seperately. 
 https://www.kaggle.com/datasets/amritharj/economy-of-sri-lanka
@@ -14,10 +14,10 @@ https://www.kaggle.com/datasets/malayvyas/usa-gdp-dataset-19612021
 - Given suitable names which haven't proper names before 
 
 
-## GDP Analysis
+## GDP Analysis in USA
 
 - **Visual Analysis**: The GDP values are plotted over time, revealing fluctuations and trends.
-![GDP Trend Analysis](Sc/GDP_in_USA_chart.png)
+![GDP Trend Analysis in USA](Sc/GDP_in_USA_chart.png)
 - **Turning Points**: Using Python code, turning points in the GDP trend are identified. These turning points indicate significant shifts in the GDP trajectory.
 
 ## Overview
@@ -46,3 +46,37 @@ This project analyzes the Gross Domestic Product (GDP) values of the USA over ti
 ### Conclusion
 The analysis provides insights into the historical trends and turning points in the USA's GDP. Understanding these patterns is crucial for making informed decisions in economics and policy-making.
 
+
+
+## GDP Analysis in Sri Lanka
+
+- **Visual Analysis**: The GDP values are plotted over time, revealing fluctuations and trends.
+![GDP Trend Analysis in Sri Lanka](Sc/GDP_in_SL_chart.png)
+- **Turning Points**: Using Python code, turning points in the GDP trend are identified. These turning points indicate significant shifts in the GDP trajectory.
+
+
+### Overview
+This project analyzes the Gross Domestic Product (GDP) values of Sri Lanka over time to identify trends and significant turning points.
+
+### Methodology
+- Data: The analysis utilizes historical GDP data obtained from reliable sources.
+- Tools: Python programming language and data analysis libraries (e.g., Pandas, Matplotlib) are used for data manipulation and visualization.
+
+### Findings
+
+#### GDP Trend Analysis
+- **Visual Analysis**: The GDP values are plotted over time, revealing fluctuations and trends.
+- **Turning Points**: Using Python code, turning points in the GDP trend are identified. These turning points indicate significant shifts in the GDP trajectory.
+
+#### Interpretation
+- **Consistent Growth (1990-2000)**: From 1990 until approximately 2000, the GDP of Sri Lanka exhibits consistent growth at a steady pace.
+- **Reduction in 2001**: A notable decrease in GDP is observed in 2001, where it declines from 16.33 billion to 15.71 billion. This suggests that something may have adversely affected the economy during this period.
+- **Stagnation (1997-2002)**: Between 1997 and 2002, the GDP growth appears to stagnate, with little to no significant increase observed.
+- **Rapid Growth (2004-2010)**: Following around 2004, the GDP starts to grow rapidly, indicating a significant increase in economic activity.
+- **Slowdown Post-2011**: However, after 2011, the pace of growth begins to slow down until the end of the dataset in 2015, suggesting a potential decline in economic activity.
+
+#### Future Implications
+- **Predictive Analysis**: Based on the observed trends, it is predicted that the GDP growth in Sri Lanka may experience fluctuations influenced by various economic factors.
+
+### Conclusion
+The analysis provides insights into the historical trends and turning points in Sri Lanka's GDP. Understanding these patterns is crucial for making informed decisions in economics and policy-making.
