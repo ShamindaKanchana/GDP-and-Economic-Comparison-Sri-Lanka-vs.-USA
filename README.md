@@ -6,7 +6,7 @@ To do analysis we require both data related to Sri Lanka and USA. But its diffic
 https://www.kaggle.com/datasets/amritharj/economy-of-sri-lanka
 https://www.kaggle.com/datasets/malayvyas/usa-gdp-dataset-19612021
 
-## Data Process 
+# Data Process 
 - Using python we have identified null values and removed from both datasets. 
 - There is no any duplication therefore no need to remove duplications 
 - Except year all data types are inappropriate so they have cleaned with removing unwanted strings 
@@ -15,6 +15,10 @@ https://www.kaggle.com/datasets/malayvyas/usa-gdp-dataset-19612021
 
 
 ## GDP Analysis
+
+- **Visual Analysis**: The GDP values are plotted over time, revealing fluctuations and trends.
+![GDP Trend Analysis](Sc/GDP_in_USA_chart.png)
+- **Turning Points**: Using Python code, turning points in the GDP trend are identified. These turning points indicate significant shifts in the GDP trajectory.
 
 ## Overview
 This project analyzes the Gross Domestic Product (GDP) values of the USA over time to identify trends and significant turning points.
@@ -41,3 +45,4 @@ This project analyzes the Gross Domestic Product (GDP) values of the USA over ti
 
 ### Conclusion
 The analysis provides insights into the historical trends and turning points in the USA's GDP. Understanding these patterns is crucial for making informed decisions in economics and policy-making.
+
