@@ -80,3 +80,32 @@ This project analyzes the Gross Domestic Product (GDP) values of Sri Lanka over 
 
 ### Conclusion
 The analysis provides insights into the historical trends and turning points in Sri Lanka's GDP. Understanding these patterns is crucial for making informed decisions in economics and policy-making.
+
+
+## GDP Analysis Comparison between USA and Sri Lanka
+
+### Overview
+This analysis compares the Gross Domestic Product (GDP) trends between the USA and Sri Lanka from 1990 to 2015. The purpose is to understand the relative growth rates and patterns of both countries' economies during this period.
+
+### Insights
+
+#### Relative Growth Comparison
+- Between 1990 and 2000, Sri Lanka shows a higher relative growth rate compared to the USA.
+- After 2000, both countries exhibit similar relative growth trends, with their GDP values moving in parallel.
+- Around 2009, there is a notable divergence in growth patterns: Sri Lanka's growth slows down while the USA's growth accelerates.
+- Despite differences in growth rates, both countries experience GDP growth over the years, albeit at varying speeds.
+
+#### Impact of Absolute GDP Values
+- The absolute GDP values of the USA are significantly larger than those of Sri Lanka, making it challenging to discern the relative growth patterns without scaling.
+- Due to the large GDP values of the USA, its chart may appear less significant when plotted alongside Sri Lanka's chart.
+
+### Visualization
+To visually compare the GDP trends between the USA and Sri Lanka, a chart has been generated showing the relative growth rates over time. The USA GDP values have been scaled to allow for a more meaningful comparison with Sri Lanka's GDP trend.
+
+
+![Relative GDP growth:USA vs Sri Lanka](Sc/usa_sl_GDP.png)
+![Absolute amount  GDP:USA vs Sri Lanka](Sc/GDP_absoluteamount_comparison.png)
+
+### Conclusion
+Analyzing the GDP trends of both countries provides valuable insights into their economic trajectories. Despite differences in absolute GDP values, understanding the relative growth rates and patterns can offer valuable insights for stakeholders and policymakers.
+
