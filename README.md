@@ -109,3 +109,25 @@ To visually compare the GDP trends between the USA and Sri Lanka, a chart has be
 ### Conclusion
 Analyzing the GDP trends of both countries provides valuable insights into their economic trajectories. Despite differences in absolute GDP values, understanding the relative growth rates and patterns can offer valuable insights for stakeholders and policymakers.
 
+
+## Sri Lanka Population Growth Rate Analysis
+
+### Overview
+This analysis examines the population growth rate in Sri Lanka from 1990 to 2015. The goal is to understand the trends and fluctuations in population growth during this period.
+
+### Insights
+
+### Population Growth Trends
+- The population growth rate in Sri Lanka experienced fluctuations throughout the analyzed period.
+- In 1990, the growth rate was relatively high, but it decreased until around 2000.
+- After 2000, there was an increase in the growth rate, followed by another decline after 2012 until 2015.
+- The growth rate seems to have been higher in the past, but it has been relatively controlled in recent years.
+
+### Visualization
+To visualize the population growth rate trends in Sri Lanka, a bar chart has been generated showing the growth rates for each year from 1990 to 2015.
+
+![Population growth rate in Sri Lanka](Sc/sl_PgrowthRate.png)
+
+### Conclusion
+Analyzing the population growth rate trends provides insights into the demographic changes in Sri Lanka over time. Understanding these trends is essential for demographic planning and policymaking.
+
