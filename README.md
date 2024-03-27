@@ -131,3 +131,25 @@ To visualize the population growth rate trends in Sri Lanka, a bar chart has bee
 ### Conclusion
 Analyzing the population growth rate trends provides insights into the demographic changes in Sri Lanka over time. Understanding these trends is essential for demographic planning and policymaking.
 
+
+## Sri Lanka Inflation Rate Analysis
+
+### Overview
+This analysis examines the inflation rate in Sri Lanka from 1990 to 2015. The goal is to understand the trends and fluctuations in inflation during this period.
+
+### Insights
+
+### Inflation Rate Trends
+- From 1990 to 1992, the inflation rate experienced a decline, indicating a period of decreasing prices or lower price increases.
+- After 1992, the inflation rate exhibited fluctuations, with significant variations observed from year to year.
+- There are fluctuations in the inflation rate over the years, indicating changes in economic conditions or government policies.
+- In 2015, there was an increase in the inflation rate, suggesting a period of rising prices or higher price increases.
+- Further analysis beyond 2015 is not possible due to the lack of available data.
+
+### Visualization
+To visualize the inflation rate trends in Sri Lanka, a line chart or bar chart can be generated showing the inflation rates for each year from 1990 to 2015.
+
+![Inflation rate in Sri Lanka](Sc/Inflation_rateinSL.png)
+
+### Conclusion
+Analyzing the inflation rate trends provides insights into the economic conditions and price stability in Sri Lanka over time. Understanding these trends is crucial for policymakers and economists in managing inflation and maintaining economic stability.
