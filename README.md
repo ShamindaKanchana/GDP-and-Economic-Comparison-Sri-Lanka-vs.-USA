@@ -153,3 +153,23 @@ To visualize the inflation rate trends in Sri Lanka, a line chart or bar chart c
 
 ### Conclusion
 Analyzing the inflation rate trends provides insights into the economic conditions and price stability in Sri Lanka over time. Understanding these trends is crucial for policymakers and economists in managing inflation and maintaining economic stability.
+
+
+## Insights: Relationship between GDP and Inflation Rate
+
+![Inflation rate relation with GDP in  Sri Lanka](Sc/GDP_Inflation_rate_relation.png)
+
+When analyzing the relationship between GDP and inflation rate, several patterns emerge:
+
+- **Inverse Relationship**: Generally, when GDP has a low value, the inflation rate tends to be higher, and vice versa. This inverse relationship suggests that changes in GDP can influence inflationary pressures within an economy.
+
+- **High GDP and Low Inflation**: Conversely, when GDP reaches higher levels, the inflation rate often decreases. This phenomenon may occur due to increased economic productivity, leading to stable prices and reduced inflationary pressures.
+
+- **High Inflation and Low GDP**: Instances of high inflation rates are often observed when GDP levels are low. This situation can indicate economic instability, supply shortages, or excessive money supply, leading to increased prices.
+
+- **Low Inflation at Moderate GDP Levels**: Interestingly, there are cases where GDP levels are moderate, but the inflation rate remains relatively low. This scenario suggests a stable economic environment with controlled inflation despite average GDP values.
+
+- **Clusters of Data Points**: Within certain ranges of GDP and inflation rate values, clusters of data points are observed. For instance, between GDP amounts of 10 billion and 20 billion and inflation rates ranging from approximately 7.5% to 12.5%, numerous data points form distinct groups. These clusters may represent specific economic conditions or policy interventions affecting GDP and inflation dynamics.
+
+
+
