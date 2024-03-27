@@ -13,6 +13,7 @@ https://www.kaggle.com/datasets/malayvyas/usa-gdp-dataset-19612021
 - Converted to appropriate data types 
 - Given suitable names which haven't proper names before 
 
+# Analysis
 
 ## GDP Analysis in USA
 
